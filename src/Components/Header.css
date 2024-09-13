@@ -1,0 +1,32 @@
+.header {
+    background-color: #ff9900;
+    color: white;
+    padding: 20px;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .nav-links {
+    list-style: none;
+  }
+  
+  .nav-links li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  .hero {
+    margin-top: 20px;
+  }
+  
+  .hero h2 {
+    font-size: 2rem;
+  }
+  
+  .hero p {
+    font-size: 1rem;
+  }  

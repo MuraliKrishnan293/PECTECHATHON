@@ -1,0 +1,11 @@
+.results-section .sentence.ai {
+    color: red;
+  }
+  
+  .results-section .sentence.human {
+    color: green;
+  }
+  
+  .results-section .sentence.modified {
+    color: orange;
+  }  
